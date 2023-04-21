@@ -47,6 +47,5 @@ IDE – Visual Code Studio.
 💻 Project Description :
 
 This music player will have all the features found in a typical music player. You will be able to add, play, pause and seek songs that have been added
-![image](https://user-images.githubusercontent.com/95160600/233622917-14620953-6a7b-447b-bfb8-22bf764ccce8.png)
-![image](https://user-images.githubusercontent.com/95160600/233622991-f93d4214-4e30-4b0b-8e75-07034b77aaae.png)
+
 
