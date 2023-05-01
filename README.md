@@ -51,3 +51,24 @@ This music player will have all the features found in a typical music player. Yo
 ![image](https://user-images.githubusercontent.com/95160600/233625119-41d8d16d-3201-4659-b86a-3dbeba9aa4bd.png)
 
 
+#  Task 3
+
+🔰Task-3 - Music WebApp
+
+🚀 Technologies Required :
+ HTML, CSS, JavaScript
+
+IDE – Visual Code Studio. 
+
+💻 Project Description :
+E-learning is a learning system that contains the following features : 
+Feature 1: Signing up online 
+Feature 2: Facility of uploading documents online 
+Feature 3: Responsive Design 
+Feature 4: Online Assessments 
+Feature 5: Future of e-learning 
+Feature 6: Communication through LMS 
+Feature 7: Admin Dashboards
+
+
+
